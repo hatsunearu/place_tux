@@ -21,7 +21,7 @@ if (window.top !== window.self) {
         .shadowRoot.children[0].appendChild(
           (function () {
             const i = document.createElement("img");
-            i.src = "https://raw.githubusercontent.com/hatsunearu/place_tux/main/Miku_3overlay.png";
+            i.src = "https://github.com/hatsunearu/place_tux/raw/main/cyprusnyan_16overlay.png";
             i.style =
               "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
             console.log(i);
