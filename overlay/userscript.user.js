@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         r/PlaceTux Overlay
+// @name         r/hatsune Miku3 Overlay
 // @namespace    https://github.com/r-PlaceTux/place_tux
 // @homepageURL  https://github.com/r-PlaceTux/place_tux/tree/main/overlay
 // @version      1.0.13
 // @description  FLOSS forever!
-// @author       r/PlaceTux
+// @author       r/PlaceTux (modified)
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
 // @license      GPL-3.0
-// @downloadURL  https://r-placetux.github.io/place_tux/userscript.user.js
+// @downloadURL  https://github.com/hatsunearu/place_tux/raw/main/overlay/userscript.user.js
 // ==/UserScript==
 if (window.top !== window.self) {
   window.addEventListener(
